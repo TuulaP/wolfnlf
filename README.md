@@ -56,7 +56,7 @@ x64\Release\wolfnlf.exe w x64\Release\sadekone.pgm sadekone_out.pgm
 ### Full usage
 
 ```
-usage: x64\Release\wolfnlf.exe [ -x <winx> -y <winy> -k <parameter> ] [ version ] <inputimage> <outputimage>
+usage: x64\Release\wolfnlf.exe [ /x:<winx> /y:<winy> /k:<parameter> ] [ version ] <inputimage> <outputimage>
 
 version: n   Niblack (1986)         needs white text on black background
          s   Sauvola et al. (1997)  needs black text on white background
